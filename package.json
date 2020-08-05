@@ -1,0 +1,27 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Algorithms",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashdathan/algorithms.git"
+  },
+  "keywords": [
+    "Algorithms"
+  ],
+  "author": "Akash Dathan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akashdathan/algorithms/issues"
+  },
+  "homepage": "https://github.com/akashdathan/algorithms#readme",
+  "devDependencies": {
+    "tslint": "^6.1.3",
+    "tslint-config-airbnb": "^5.11.2",
+    "typescript": "^3.9.7"
+  }
+}
