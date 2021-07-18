@@ -1,1 +1,2 @@
-export * from './sorting';
+export * from './algorithms/sorting';
+export * from './datastructures';
